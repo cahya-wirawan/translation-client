@@ -3,7 +3,7 @@
 ## Client for machine translation service
 
 ### Translate.cli 
-It is a command line interface for the Translation API using the REST API from 
+It is a command line interface for the Translation REST API from 
 https://translation-api.ai-research.id/translate/v1
 
 #### Usage:
